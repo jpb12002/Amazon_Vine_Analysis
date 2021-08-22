@@ -15,6 +15,8 @@ The company $ellBy is about ot launch a lot of product on a large online retaile
   - Vine: 51%
   - Non-Vine: 39%
 
+![Image of Vine Summary](https://github.com/jpb12002/Amazon_Vine_Analysis/blob/main/Vine%20Summary.png)
+
 ## Summary
 While there appears to be some positivity bias from Vine-reviewers, overall the data is heavily skewed toward non-Vine reviewers. Only 0.23% of the reviews in the dataset were from Vine reviewers. Therefore, we would need a much larger population of Vine reviewers to make any meaningful assumptions about positivity bias. 
 - Additional analysis could include 1-, 2-, 3-, and 4-Star Review Percentages for Vine versus non-Vine customers. This would allow us to inspect the overall spectrum of reviews for each type of customer to see if all reviews tend to be positively or negatively skewed. 
